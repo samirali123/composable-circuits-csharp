@@ -54,4 +54,4 @@ Console.WriteLine(cb.GetResult()); // 1 if math[0] > math[1]
 
 ## See Also
 
-[circuit-engine-cpp](../circuit-engine-cpp) — the original C++ implementation of this engine, featuring manual memory management with smart pointers and a custom STL-style iterator.
+[composable-circuits-cpp](https://github.com/samirali123/composable-circuits-cpp) — the original C++ implementation of this engine, featuring manual memory management with smart pointers and a custom STL-style iterator.
